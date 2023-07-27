@@ -120,4 +120,7 @@ GitHub Dorks For Finding Information Using Extension
 ```
 --------
 
-
+<details>
+ <summary>Author</summary>
+  KABIR
+</details>
